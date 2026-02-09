@@ -59,11 +59,11 @@ tic-tac-toe/
 
 ## ⚙️ Installation & Setup
 
-Follow these steps to run the project locally:
+Follow these steps to run the project locally in your own machine:
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/pixi-devc5622/react-tic-tac-toe.git
 
 # Navigate to the project folder
 cd tic-tac-toe
